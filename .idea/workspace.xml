@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e739fc1-329c-4785-beff-d5e89fd95297" name="Default Changelist" comment="" />
+    <list default="true" id="5e739fc1-329c-4785-beff-d5e89fd95297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/userActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/userGlobal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Analytics.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Error404.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Event.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Merchandise.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Moderator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Music.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Setting.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/SocialMedia.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/SocialMediaPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/Video.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screen/component/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,13 +37,56 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZZSfDuXCEd7lXAwq2EEG3KKHft" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/screen" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/screen" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,8 +98,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585045223759</updated>
-      <workItem from="1585045227937" duration="1000" />
+      <workItem from="1585045227937" duration="262000" />
+      <workItem from="1585045693189" duration="2221000" />
+      <workItem from="1585062358507" duration="9293000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585062737808">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1585062737808" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1585299114532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585299114532" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1585299114531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585299114531" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1585299114530">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585299114530" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1585299114531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585299114531" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1585045720197">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585045720197" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585062849192">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585062849192" />
   </component>
 </project>
